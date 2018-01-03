@@ -17,3 +17,6 @@ The csv file contains 3 fields in each row:
 - the date and time this test was completed
 - download speed
 - upload speed
+
+# Tips
+- Speedtest results are heavily dependent on your network setup.  To get consistent results, you should run this from a machine plugged directly into your network, rather than over wifi.
