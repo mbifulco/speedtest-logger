@@ -1,4 +1,5 @@
-# Speedtesterizer
+# What is this?
+`speedtest-logger` uses speedtest.net's CLI to run speedtests from a host machine regularly, logging them to a CSV.  This was created initially to keep a log of bad internet speeds at my home, to provide as evidence to my ISP.
 
 ## To run:
 1. clone this repo
