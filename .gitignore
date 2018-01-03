@@ -1,3 +1,4 @@
+speedtestresults.csv
 
 # Created by https://www.gitignore.io/api/node,code
 
@@ -5,7 +6,7 @@
 # Visual Studio Code - https://code.visualstudio.com/
 .settings/
 .vscode/
-tsconfig.json
+tsconfig.json 
 jsconfig.json
 
 ### Node ###
